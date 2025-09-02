@@ -122,6 +122,3 @@ Let me know if you'd like help with any of these ideas—I’d be happy to assis
 
 
 
-Sources
-
-Ask ChatGPT

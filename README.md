@@ -112,8 +112,7 @@ Want to make the README even more engaging? Consider adding:
 - **Badge icons** for things like license or Python version support  
 - A brief **live demo GIF** for visual appeal
 
-Let me know if you'd like help with any of these ideas—I’d be happy to assist!
-::contentReference[oaicite:0]{index=0}
+
 
 
 
